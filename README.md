@@ -1,16 +1,37 @@
-# React + Vite
+🚀 Raju Gupta | Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository. This portfolio showcases my journey as a Frontend Developer and highlights the projects I have built using modern web technologies.
 
-Currently, two official plugins are available:
+I enjoy creating responsive, user-friendly, and interactive web applications while continuously improving my development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live Portfolio
 
-## React Compiler
+https://rajugupta-portfolio.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💼 Featured Projects
+Employee Management System (EMS) – Role-based dashboard with task assignment and management functionality.
+Weather App – Real-time weather application integrated with APIs.
+Full Frontend E-Commerce Website – Modern, responsive shopping interface with clean UI and reusable components.
+More React and JavaScript projects showcasing frontend development concepts and practical implementations.
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3
+Tailwind CSS
+Git & GitHub
+VS Code
+Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Currently Learning
+Advanced React.js
+TypeScript
+Next.js
+Building scalable and production-ready applications
+
+📬 Connect With Me
+GitHub: https://github.com/mrraju854
+LinkedIn: https://www.linkedin.com/in/raju-gupta-ab703a363/
+
+Open to Frontend Developer Internships and entry-level opportunities.
