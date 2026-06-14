@@ -40,7 +40,7 @@ const Navbar = () => {
                 <span className='absolute left-0 -bottom-1 w-0 h-0.5 bg-purple-500 transition-all duration-300 group-hover:w-full'></span>
             </a>
 
-            <a href='#' className='flex px-3 text-purple-300 rounded-lg cursor-pointer hover:bg-purple-500 hover:text-white transition duration-400 py-1 border-2 border-purple-400 gap-1 justify-center items-center user-none'>Resume <FaDownload /></a>
+            <a href="/Raju_Gupta_Resume.pdf" target="_blank" rel="noreferrer" className='flex px-3 text-purple-300 rounded-lg cursor-pointer hover:bg-purple-500 hover:text-white transition duration-400 py-1 border-2 border-purple-400 gap-1 justify-center items-center user-none'>Resume <FaDownload /></a>
         </div>
 
         <div className='md:hidden'>

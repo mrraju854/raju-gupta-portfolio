@@ -3,6 +3,7 @@ import { SiTailwindcss } from "react-icons/si";
 import { Profiler } from "react";
 
 import profileImage from "./profileImage.png";
+import aboutImage from "./aboutImage.avif"
 import projectImg1 from "./project1.png";
 import projectImg2 from "./project2.png";
 import projectImg3 from "./project3.png";
@@ -11,7 +12,7 @@ import projectImg5 from "./project5.png";
 import projectImg6 from "./project6.png";
 
 export const assets = {
-  profileImage,
+  profileImage, aboutImage
 };
 
 export const aboutInfo = [

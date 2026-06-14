@@ -43,7 +43,7 @@ const Contact = () => {
 
             <div className='space-y-7 mt-8'>
                 <div className=' flex items-start'>
-                    <a href='#' className='active:scale-110 transition-all flex px-12 text-purple-300 rounded-lg cursor-pointer hover:bg-purple-500 hover:text-white duration-300 py-2 border-2 border-purple-400 gap-1 justify-center items-center select-none'>Resume <FaDownload /></a>
+                    <a href="/Raju_Gupta_Resume.pdf" target="_blank" rel="noreferrer" className='active:scale-110 transition-all flex px-12 text-purple-300 rounded-lg cursor-pointer hover:bg-purple-500 hover:text-white duration-300 py-2 border-2 border-purple-400 gap-1 justify-center items-center select-none'>Resume <FaDownload /></a>
                 </div>
 
                 <div className='flex items-start'>

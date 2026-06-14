@@ -24,7 +24,7 @@ const About = () => {
                 transition={{duration: 0.9, ease: 'easeOut'}}
                 viewport={{once: false, amount:0.2}}
                 className='w-full h-full object-cover rounded-2xl'
-                src={assets.profileImage} alt="Profile" />
+                src={assets.aboutImage} alt="Profile" />
             </div>
 
             <motion.div
