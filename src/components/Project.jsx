@@ -9,8 +9,7 @@ const Project = () => {
     <motion.div
     initial={{opacity:0, y:50}}
     whileInView={{opacity:1, y:0}}
-    transition={{duration: 0.4, ease:'easeOut'}}
-    viewport={{once:false, amount:0.2}}
+    transition={{duration: 0.5, ease:'easeOut'}}
     id='Projects'
     className='scroll-mt-20 py-20 bg-[#1a1a1a]'
     >
